@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "GitHub",
+        "img"   : "https://github.githubassets.com/images/modules/logos_page/Octocat.png",
+        "href"  : "https://github.com/cardrocha"
+    },
+    {
+        "titulo": "Linkedin",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+        "href"  : "https://www.linkedin.com/in/ricardo-rocha-ara%C3%BAjo-b8a36a18b/"
+    },
+    {
+        "titulo": "Instagram",
+        "img"   : "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "href"  : "https://www.instagram.com/cardrocha/"
+    }
+]
